@@ -9,3 +9,4 @@ const greeting=(name='Fayaz')=>{
 }
 
 greeting('Hassan')
+greeting('Asima')
